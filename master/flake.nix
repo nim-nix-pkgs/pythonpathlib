@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-pythonpathlib-master.flake = false;
+  inputs.src-pythonpathlib-master.ref   = "refs/heads/master";
   inputs.src-pythonpathlib-master.owner = "achesak";
-  inputs.src-pythonpathlib-master.ref   = "master";
   inputs.src-pythonpathlib-master.repo  = "nim-pythonpathlib.git";
   inputs.src-pythonpathlib-master.type  = "github";
   
