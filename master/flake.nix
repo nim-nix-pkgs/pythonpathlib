@@ -10,7 +10,7 @@
   inputs.src-pythonpathlib-master.flake = false;
   inputs.src-pythonpathlib-master.ref   = "refs/heads/master";
   inputs.src-pythonpathlib-master.owner = "achesak";
-  inputs.src-pythonpathlib-master.repo  = "nim-pythonpathlib.git";
+  inputs.src-pythonpathlib-master.repo  = "nim-pythonpathlib";
   inputs.src-pythonpathlib-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
