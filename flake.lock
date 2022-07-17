@@ -45,11 +45,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1657153229,
-        "narHash": "sha256-l/JQCLR0DiOG8WiSYk3JkjlrGCxium6iRTU5JV3G67c=",
+        "lastModified": 1658018203,
+        "narHash": "sha256-PBy2HXxM2T5ZvcHLHOkYVRSJR2rHAo9jGC0sLAxqSX4=",
         "owner": "nim-nix-pkgs",
         "repo": "pythonpathlib",
-        "rev": "70ad8bdffe2558471fbaa19aec62dd521ff9daea",
+        "rev": "ce3abffb9720232c017dbd2f55b258d5f209adad",
         "type": "github"
       },
       "original": {
